@@ -1,8 +1,8 @@
-" Set Colorscheme
+"Set Colorscheme
 colorscheme desert
 set term=xterm-256color "helps with PuTTY
 
-" Tabs and Spaces for Drupal Standards
+"Tabs and Spaces for Drupal Standards
 set number
 set expandtab
 set tabstop=2
